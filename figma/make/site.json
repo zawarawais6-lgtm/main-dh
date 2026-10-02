@@ -1,0 +1,10 @@
+{
+  "description": "Offers a curated collection of unique, professional audio presets with engaging visuals to inspire creativity and enhance music production workflows.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
